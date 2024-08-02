@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mairasglitch
+- 👀 I’m interested in building scalable web applications
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on inclusive web projects
+- ⚡ Fun fact: I learned coding to automate my job and ended up changing career!
